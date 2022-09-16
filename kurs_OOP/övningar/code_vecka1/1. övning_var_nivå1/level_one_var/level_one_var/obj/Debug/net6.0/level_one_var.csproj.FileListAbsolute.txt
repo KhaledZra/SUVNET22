@@ -1,0 +1,15 @@
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\1.övning_var_nivå1\level_one_var\level_one_var\bin\Debug\net6.0\level_one_var.exe
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\1.övning_var_nivå1\level_one_var\level_one_var\bin\Debug\net6.0\level_one_var.deps.json
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\1.övning_var_nivå1\level_one_var\level_one_var\bin\Debug\net6.0\level_one_var.runtimeconfig.json
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\1.övning_var_nivå1\level_one_var\level_one_var\bin\Debug\net6.0\level_one_var.dll
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\1.övning_var_nivå1\level_one_var\level_one_var\bin\Debug\net6.0\level_one_var.pdb
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\1.övning_var_nivå1\level_one_var\level_one_var\obj\Debug\net6.0\level_one_var.csproj.AssemblyReference.cache
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\1.övning_var_nivå1\level_one_var\level_one_var\obj\Debug\net6.0\level_one_var.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\1.övning_var_nivå1\level_one_var\level_one_var\obj\Debug\net6.0\level_one_var.AssemblyInfoInputs.cache
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\1.övning_var_nivå1\level_one_var\level_one_var\obj\Debug\net6.0\level_one_var.AssemblyInfo.cs
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\1.övning_var_nivå1\level_one_var\level_one_var\obj\Debug\net6.0\level_one_var.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\1.övning_var_nivå1\level_one_var\level_one_var\obj\Debug\net6.0\level_one_var.dll
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\1.övning_var_nivå1\level_one_var\level_one_var\obj\Debug\net6.0\refint\level_one_var.dll
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\1.övning_var_nivå1\level_one_var\level_one_var\obj\Debug\net6.0\level_one_var.pdb
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\1.övning_var_nivå1\level_one_var\level_one_var\obj\Debug\net6.0\level_one_var.genruntimeconfig.cache
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\1.övning_var_nivå1\level_one_var\level_one_var\obj\Debug\net6.0\ref\level_one_var.dll

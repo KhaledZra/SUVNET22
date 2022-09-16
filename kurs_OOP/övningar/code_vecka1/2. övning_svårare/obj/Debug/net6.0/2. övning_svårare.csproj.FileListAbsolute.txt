@@ -1,0 +1,15 @@
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\2. övning_svårare\bin\Debug\net6.0\2. övning_svårare.exe
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\2. övning_svårare\bin\Debug\net6.0\2. övning_svårare.deps.json
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\2. övning_svårare\bin\Debug\net6.0\2. övning_svårare.runtimeconfig.json
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\2. övning_svårare\bin\Debug\net6.0\2. övning_svårare.dll
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\2. övning_svårare\bin\Debug\net6.0\2. övning_svårare.pdb
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\2. övning_svårare\obj\Debug\net6.0\2. övning_svårare.csproj.AssemblyReference.cache
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\2. övning_svårare\obj\Debug\net6.0\2. övning_svårare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\2. övning_svårare\obj\Debug\net6.0\2. övning_svårare.AssemblyInfoInputs.cache
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\2. övning_svårare\obj\Debug\net6.0\2. övning_svårare.AssemblyInfo.cs
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\2. övning_svårare\obj\Debug\net6.0\2. övning_svårare.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\2. övning_svårare\obj\Debug\net6.0\2. övning_svårare.dll
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\2. övning_svårare\obj\Debug\net6.0\refint\2. övning_svårare.dll
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\2. övning_svårare\obj\Debug\net6.0\2. övning_svårare.pdb
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\2. övning_svårare\obj\Debug\net6.0\2. övning_svårare.genruntimeconfig.cache
+C:\Users\Khaled\source\repos\SUVNET22\kurs_OOP\övningar\code_vecka1\2. övning_svårare\obj\Debug\net6.0\ref\2. övning_svårare.dll
