@@ -1,0 +1,15 @@
+C:\Users\halo_\Desktop\casetest\bin\Debug\net7.0\casetest.exe
+C:\Users\halo_\Desktop\casetest\bin\Debug\net7.0\casetest.deps.json
+C:\Users\halo_\Desktop\casetest\bin\Debug\net7.0\casetest.runtimeconfig.json
+C:\Users\halo_\Desktop\casetest\bin\Debug\net7.0\casetest.dll
+C:\Users\halo_\Desktop\casetest\bin\Debug\net7.0\casetest.pdb
+C:\Users\halo_\Desktop\casetest\obj\Debug\net7.0\casetest.csproj.AssemblyReference.cache
+C:\Users\halo_\Desktop\casetest\obj\Debug\net7.0\casetest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halo_\Desktop\casetest\obj\Debug\net7.0\casetest.AssemblyInfoInputs.cache
+C:\Users\halo_\Desktop\casetest\obj\Debug\net7.0\casetest.AssemblyInfo.cs
+C:\Users\halo_\Desktop\casetest\obj\Debug\net7.0\casetest.csproj.CoreCompileInputs.cache
+C:\Users\halo_\Desktop\casetest\obj\Debug\net7.0\casetest.dll
+C:\Users\halo_\Desktop\casetest\obj\Debug\net7.0\refint\casetest.dll
+C:\Users\halo_\Desktop\casetest\obj\Debug\net7.0\casetest.pdb
+C:\Users\halo_\Desktop\casetest\obj\Debug\net7.0\casetest.genruntimeconfig.cache
+C:\Users\halo_\Desktop\casetest\obj\Debug\net7.0\ref\casetest.dll
